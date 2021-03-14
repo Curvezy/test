@@ -1,0 +1,33 @@
+header {
+    background-color:darkgrey;
+    font-family:fantasy;
+    text-align:center;
+    padding-top:15px;
+    padding-bottom:15px;
+    font-size:35px;
+    color:white;
+}
+body {
+    background-color:beige;
+    font-family:fantasy;
+}
+section {
+    font-family:fantasy;
+}
+nav {
+    float:right;
+    background:grey;
+    width:30%;
+    word-break: break-word;
+    color:white;
+}
+nav img {
+    padding:0px;
+}
+nav p {
+    float:left;
+}
+article {
+    float:left;
+    width:70%;
+}
